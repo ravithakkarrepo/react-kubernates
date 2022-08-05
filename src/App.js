@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
        <p>
-          Welcome to Kubernates Hosted React Application!
+          Welcome to Ravi Kubernates Hosted React Application!
         </p>
         <a
           className="App-link"
